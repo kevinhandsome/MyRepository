@@ -6,7 +6,7 @@ import javax.servlet.jsp.tagext.TryCatchFinally;
 
 public class IoTest {
 	
-	FileInputStream fic=new FileInputStream("");
+	
 	
 	
 	
